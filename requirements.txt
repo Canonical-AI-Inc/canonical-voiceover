@@ -13,3 +13,9 @@ torch>=1.9.0
 # Additional useful audio processing libraries
 librosa>=0.9.1
 pydub>=0.25.1
+
+# Environment variable management
+python-dotenv>=0.21.0
+
+# API requests for Eleven Labs
+requests>=2.28.0
