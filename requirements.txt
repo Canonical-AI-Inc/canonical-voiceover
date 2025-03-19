@@ -1,0 +1,15 @@
+# Requirements for YouTube downloader and vocal remover project
+
+# YouTube downloader dependencies
+pytube>=12.1.0
+ffmpeg-python>=0.2.0
+yt-dlp>=2023.3.4
+
+# Vocal remover dependencies (using Demucs instead of Spleeter)
+demucs>=4.0.0
+torchaudio>=0.9.0
+torch>=1.9.0
+
+# Additional useful audio processing libraries
+librosa>=0.9.1
+pydub>=0.25.1
