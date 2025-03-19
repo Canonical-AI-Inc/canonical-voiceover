@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 
 # Input and output filenames
-INPUT_AUDIO = "/Users/tom/tmp/voiceover/reconstructed_song.mp3"
-OUTPUT_VIDEO = "/Users/tom/tmp/voiceover/reconstructed_song_video.mp4"
+INPUT_AUDIO = "" # replace with your full filepath to your final audio file (/Users/you/.../reconstructed_song.mp3)
+OUTPUT_VIDEO = "" # replace with your full filepath to your final video file (/Users/you/.../reconstructed_song_video.mp4) 
 
 import numpy as np
 import librosa

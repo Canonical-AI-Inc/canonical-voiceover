@@ -4,7 +4,7 @@
 # Input: YouTube URL
 INPUT_URL = "https://www.youtube.com/watch?v=O4SzvsMFaek"  # Replace with your YouTube URL
 # Output: MP3 filename (absolute path)
-OUTPUT_FILENAME = "/Users/tom/tmp/voiceover/downloaded_song.mp3"
+OUTPUT_FILENAME = "" # replace with your full filepath (/Users/you/.../downloaded_song.mp3)
 
 import sys
 import os

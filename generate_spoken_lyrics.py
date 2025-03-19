@@ -3,7 +3,7 @@
 # Input and output filenames
 VOICE_ID = "CwhRBWXzGAHq8TQ4Fs17"  # Replace with actual voice ID
 VOICE_NAME = "Roger" # Replace with actual voice name
-OUTPUT_FILENAME = "/Users/tom/tmp/voiceover/lyrics.wav"
+OUTPUT_FILENAME = "" # replace with your full filepath (/Users/you/.../lyrics.wav)
 
 # Use dotenv to load environment variables
 from dotenv import load_dotenv

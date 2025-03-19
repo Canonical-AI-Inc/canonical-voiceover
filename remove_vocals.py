@@ -4,7 +4,7 @@
 # Input: Song file with vocals
 INPUT_AUDIO = "/Users/tom/tmp/voiceover/downloaded_song.mp3"
 # Output: Song file without vocals
-OUTPUT_AUDIO = "/Users/tom/tmp/voiceover/instrumental_version.mp3"
+OUTPUT_AUDIO = "" # replace with your full filepath (/Users/you/.../instrumental_version.mp3)
 
 import os
 import sys

@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 
 # Input and output filenames
-SPEECH_INPUT = "/Users/tom/tmp/voiceover/lyrics.wav"
-INSTRUMENTAL_INPUT = "/Users/tom/tmp/voiceover/instrumental_version.mp3"
-OUTPUT_FILENAME = "/Users/tom/tmp/voiceover/reconstructed_song.mp3"
+SPEECH_INPUT = "" # replace with your full filepath to your lyrics file (/Users/you/.../lyrics.wav)
+INSTRUMENTAL_INPUT = "" # replace with your full filepath to your instrumental file (/Users/you/.../instrumental_version.mp3)
+OUTPUT_FILENAME = "" # replace with your full filepath to your final audio file (/Users/you/.../reconstructed_song.mp3)
 
 from pydub import AudioSegment
 
