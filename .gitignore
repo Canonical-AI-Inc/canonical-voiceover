@@ -1,0 +1,82 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Logs and debugging
+logs/
+*.log
+*.out
+*.err
+debug.log
+
+# IDE/editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.bak
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Coverage reports
+htmlcov/
+*.cover
+*.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+
+# MyPy type checking cache
+.mypy_cache/
+
+# pytest cache
+.pytest_cache/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+*.manifest
+*.spec
+
+# C extensions
+*.so
+
+# Distribution / packaging
+*.wheel
+*.tar.gz
+*.egg
+
+# Environment variable files (sensitive)
+.env
+*.secrets
+
+# Database files
+*.sqlite3
+*.db
+
+# Poetry-specific files
+poetry.lock
+
+# Pyenv local Python version
+.python-version
+
+# Pycharm specific
+*.iml
