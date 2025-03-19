@@ -56,6 +56,10 @@ Run the scripts in this order:
 - `combine_spoken_lyrics_with_instrumental.py`: Mixes spoken lyrics with instrumental
 - `song_to_waveform.py`: Creates waveform visualization video
 
+## Example
+
+https://x.com/tom_shapland/status/1902490018188541992
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see LICENSE file for details.
